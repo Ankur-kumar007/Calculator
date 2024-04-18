@@ -8,7 +8,6 @@ public class calculator {
      int num1 = sc.nextInt();
      System.out.println("Enter Your second number");
      int num2 = sc.nextInt();
-    // *
     // !calculator📲
     System.out.println("Enter the operator: '+', '-', '*', '/', '%'");
     char op = sc.next().charAt(0);
